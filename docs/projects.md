@@ -13,4 +13,4 @@ In the end, I created a less space-consuming a portable project that had simplif
 You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
 or even embed images with the following Markdown:
 
-![Repackageing PLC Traniners](./assets/PLCpic.png)
+![Repackageing PLC Traniners](./assets/PLCpic.JPG)
