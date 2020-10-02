@@ -2,31 +2,20 @@
 id: about
 title: About
 ---
+I am an Electrical and Computer Engineering graduate (class of 2023), with a passion for engineering in the fields of embedded systems and the intersection of hardware and software. I enjoy teaching, volunteering, and participating in hackathons, most recently one where my team and I created a smart pinball machine controlled by accelerometers, and another where we won a CMU entrepreneurial prize at CMU TartanHacks. 
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+I am the Society of Women Engineers (SWE) Mentoring Co-Chair, where I am growing a mentoring network for CMU’s female STEM community while teaching incoming Electrical and Computer engineering students as a teaching assistant. My favorite projects are those in which I can use my engineering knowledge and problem-solving skills to expand the community of women engineers and scientists. 
 
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
-
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Carnegie Mellon University Electrical and Computer engineering student. Society of Women Engineers (SWE) Mentoring Co-chair.
 
 ## Recognition
 
-- 2020 Awesome Woman in Technology Award
+- TartanHacks winner of Project Olympus' 'Best Entrepreneurial Hack' Prize
 
 ## Social Media
 
-- Twitter
-- LinkedIn
-- GitHub
+- [LinkedIn] (https://www.linkedin.com/in/sophia-a-li/)
+- [GitHub] (https://github.com/sophialiCMU)
