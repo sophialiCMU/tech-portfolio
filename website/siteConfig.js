@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Sophia Li', // Title for your website.
-    tagline: 'Welcome to my website! I cannot wait to learn! ',
+    tagline: "Welcome to my website! I can't wait to learn!",
     profilePhoto: 'img/profile.png',
     url: 'https://sophialiCMU.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
