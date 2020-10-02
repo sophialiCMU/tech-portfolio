@@ -17,5 +17,5 @@ Carnegie Mellon University Electrical and Computer engineering student. Society 
 
 ## Social Media
 
-- [LinkedIn] (https://www.linkedin.com/in/sophia-a-li/)
-- [GitHub] (https://github.com/sophialiCMU)
+- [LinkedIn](https://www.linkedin.com/in/sophia-a-li/)
+- [GitHub](https://github.com/sophialiCMU)
