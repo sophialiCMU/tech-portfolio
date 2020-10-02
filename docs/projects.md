@@ -10,9 +10,6 @@ Through the project, I learned how to meet client needs, converse with experts t
 In the end, I created a less space-consuming a portable project that had simplified cabling and updated electrical codes. I also helped my school save $10,000+ if they had been forced to buy new PLC boards.
 
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
-
 You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
 or even embed images with the following Markdown:
 
