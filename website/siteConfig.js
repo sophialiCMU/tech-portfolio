@@ -12,10 +12,10 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Your Name Here', // Title for your website.
-    tagline: 'Continuously improving, aspiring technologist.',
+    title: 'Sophia Li', // Title for your website.
+    tagline: 'Welcome to my website! I am an electrical and computer engineer at Carnegie Mellon University (class of 2023), with a passion for engineering in the fields of embedded systems and the intersection of hardware and software. I enjoy teaching, volunteering, and participating in hackathons, most recently one where my team and I created a smart pinball machine controlled by accelerometers, and another where we won a CMU entrepreneurial prize at CMU TartanHacks. I am the Society of Women Engineers (SWE) Mentoring Co-Chair, where I am growing a mentoring network for CMU’s female STEM community while teaching incoming Electrical and Computer engineering students as a teaching assistant. My favorite projects are those in which I can use my engineering knowledge and problem-solving skills to expand the community of women engineers and scientists. ',
     profilePhoto: 'img/profile.png',
-    url: 'https://joatmon08.github.io', // Your website URL
+    url: 'https://sophialiCMU.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
@@ -23,7 +23,7 @@ const siteConfig = {
 
     // Used for publishing and more
     projectName: 'tech-portfolio',
-    organizationName: 'joatmon08',
+    organizationName: 'sophialiCMU',
     // For top-level user or org sites, the organization is still the same.
     // e.g., for the https://JoelMarcey.github.io site, it would be set like...
     //   organizationName: 'JoelMarcey'
@@ -67,9 +67,9 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: '',
+        linkedin: 'sophia-a-li/',
         twitter: '',
-        github: '',
+        github: 'sophialiCMU',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
